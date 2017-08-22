@@ -4,4 +4,4 @@ applications:
   instances: 1
   name: Nodejs
   host: Nodejs
-  disk_quota: 1024M
+  
